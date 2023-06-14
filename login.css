@@ -6,9 +6,10 @@ body {
 div {
     background-color: rgb(255, 255, 255);
     width: 400px;
-    border: 1px solid rgb(0, 32, 63);
+    border: 0px solid rgb(0, 32, 63);
     padding: 50px;
     margin: 20px;
+    border-radius: 10px;
   }
   .color {
     background-color: rgb(255, 255, 255);
